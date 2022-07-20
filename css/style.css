@@ -1,0 +1,28 @@
+
+
+/* design button */
+.header-text{
+ color: white;
+ width: 50%;
+}
+
+.header-img{
+    width: 50%;
+    margin-left: 500px;
+}
+.button {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;  
+  
+}
+
+.header-design{
+    display:flex;
+    background-color: black;
+    padding: 20px;
+    border-radius: 30px;
+    
+}

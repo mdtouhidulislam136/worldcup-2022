@@ -1,3 +1,27 @@
 #upcoming-match{
     background-color: red;
 }
+
+
+.upcoming-match{
+    margin-left: 20px;
+    background-color: rgba(232, 232, 232, 1);
+    border-radius: 5px;
+   
+}
+
+
+
+.match{
+    background-color: rgba(232, 232, 232, 1);
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.match-text{
+    padding: 20px;
+}

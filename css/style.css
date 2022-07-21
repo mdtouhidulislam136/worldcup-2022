@@ -10,13 +10,12 @@
     width: 50%;
     margin-left: 500px;
 }
-.button {
-  background-color: red;
-  color: white;
-  padding: 5px;
-  border: none;
-  border-radius: 5px;  
-  
+
+.button{
+    background-color:red;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 .header-design{
@@ -25,4 +24,90 @@
     padding: 20px;
     border-radius: 30px;
     
+}
+
+.section1{
+   display:flex;
+   margin-top: 50px;
+  
+
+    
+}
+
+
+nav li  {
+    margin-top: 20px;
+   
+}
+
+
+.button-board{
+    background-color: black;
+    border-radius: 10px;
+    height: 200px;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 30px;
+   
+}
+
+.button-section1 {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 10px;
+   
+}
+
+#button-blog{
+    background-color: red;
+}
+
+.button-section1:hover{
+    background-color: red;
+}
+
+.whole-blog{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    width: 70%;
+    grid-gap: 200px;
+    margin-left: 50px;
+
+}
+.blog{
+    background-color: rgba(232, 232, 232, 1);
+    margin-top: 20px;
+    width: 312px;
+    border-radius: 20px;
+    
+
+}
+
+.blog-text{
+    padding: 20px;
+}
+
+
+
+
+.footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.terms-conditions{
+    display: flex;
+    justify-content: center;
+}
+
+.conditions{
+    margin-left: 15px;
 }
